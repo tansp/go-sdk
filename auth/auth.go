@@ -7,8 +7,8 @@ import (
 	"io"
 	"net/http"
 
-	. "ecloud_gosdk.v1/conf"
-	"ecloud_gosdk.v1/lib/bytes/seekable"
+	. "go-sdk/conf"
+	"go-sdk/lib/bytes/seekable"
 )
 
 // ----------------------------------------------------------

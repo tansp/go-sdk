@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"ecloud_gosdk.v1/lib/xlog"
+	"go-sdk/lib/xlog"
 
 	. "golang.org/x/net/context"
 )

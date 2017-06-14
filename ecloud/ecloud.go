@@ -3,9 +3,9 @@ package ecloud
 import (
 	"net/http"
 
-	"ecloud_gosdk.v1/auth"
-	"ecloud_gosdk.v1/conf"
-	"ecloud_gosdk.v1/lib/rpc"
+	"go-sdk/auth"
+	"go-sdk/conf"
+	"go-sdk/lib/rpc"
 )
 
 type Config struct {

@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"ecloud_gosdk.v1/conf"
-	"ecloud_gosdk.v1/ecloud"
-	"ecloud_gosdk.v1/ecloudcli"
+	"go-sdk/conf"
+	"go-sdk/ecloud"
+	"go-sdk/ecloudcli"
 )
 
 var (

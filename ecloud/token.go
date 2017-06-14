@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"ecloud_gosdk.v1/auth"
-	"ecloud_gosdk.v1/lib/url"
+	"go-sdk/auth"
+	"go-sdk/lib/url"
 )
 
 // ----------------------------------------------------------

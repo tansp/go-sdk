@@ -1,8 +1,8 @@
 package main
 
 import (
-	"ecloud_gosdk.v1/conf"
-	"ecloud_gosdk.v1/ecloud"
+	"go-sdk/conf"
+	"go-sdk/ecloud"
 )
 
 var (

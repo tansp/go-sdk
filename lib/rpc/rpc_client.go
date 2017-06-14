@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"ecloud_gosdk.v1/lib/reqid"
+	"go-sdk/lib/reqid"
 	. "golang.org/x/net/context"
 )
 

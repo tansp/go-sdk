@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"ecloud_gosdk.v1/lib/rpc"
+	"go-sdk/lib/rpc"
 )
 
 var version = "1.0"
@@ -23,14 +23,9 @@ var Zones = []ZoneConfig{
 		UpHosts: []string{
 
 		//"http://192.168.200.12:8072",
-		//"http://223.99.255.186:6051",
-		//"http://upload.qiniu.com",
-		//"http://upload.qiniu.com",
 		},
 		MgHosts: []string{
-			"http://192.168.100.98:80",
-			//"http://223.99.255.201:6057",
-			//"http://223.99.255.212:6057",
+		//	"http://192.168.100.98:80",
 		},
 	},
 }

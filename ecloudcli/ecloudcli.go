@@ -3,9 +3,9 @@ package ecloudcli
 import (
 	"net/http"
 
-	"ecloud_gosdk.v1/conf"
-	"ecloud_gosdk.v1/lib/rpc"
-	"ecloud_gosdk.v1/lib/url"
+	"go-sdk/conf"
+	"go-sdk/lib/rpc"
+	"go-sdk/lib/url"
 )
 
 type UploadConfig struct {

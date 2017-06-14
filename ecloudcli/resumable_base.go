@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"ecloud_gosdk.v1/lib/bytes"
-	"ecloud_gosdk.v1/lib/rpc"
-	"ecloud_gosdk.v1/lib/xlog"
+	"go-sdk/lib/bytes"
+	"go-sdk/lib/rpc"
+	"go-sdk/lib/xlog"
 
 	. "golang.org/x/net/context"
 )
